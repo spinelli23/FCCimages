@@ -8,3 +8,6 @@
 ![TributePageProject](https://user-images.githubusercontent.com/119644852/213968550-062ca6e0-3bcd-453e-9544-4f9e431e9c52.png)
 ![ProductLandingPage](https://user-images.githubusercontent.com/119644852/215330178-abb1227e-ebcb-4855-811f-6e94f2a46140.png)
 ![Marc_Karwisch_Profile_Pic](https://user-images.githubusercontent.com/119644852/215957600-288dd285-4370-4d20-9f41-bcbaca132b64.jpg)
+![Portfolio_pic_1](https://user-images.githubusercontent.com/119644852/215964996-8e9a57de-30b1-4522-938f-d7cc6aeeb3ae.png)
+![Portfolio_pic_2](https://user-images.githubusercontent.com/119644852/215965002-b5b53bff-4ab2-41be-9715-4a4303e13a0a.png)
+![portfolio_pic_3](https://user-images.githubusercontent.com/119644852/215965005-fcb8af65-c095-4d1b-baf3-d091c986fbad.jpg)
