@@ -7,3 +7,4 @@
 ![spinelli2_FCC](https://user-images.githubusercontent.com/119644852/212245608-f13a1399-2bb5-4daa-a945-b6911a715964.jpg)
 ![TributePageProject](https://user-images.githubusercontent.com/119644852/213968550-062ca6e0-3bcd-453e-9544-4f9e431e9c52.png)
 ![ProductLandingPage](https://user-images.githubusercontent.com/119644852/215330178-abb1227e-ebcb-4855-811f-6e94f2a46140.png)
+![Marc_Karwisch_Profile_Pic](https://user-images.githubusercontent.com/119644852/215957600-288dd285-4370-4d20-9f41-bcbaca132b64.jpg)
